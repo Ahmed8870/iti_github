@@ -14,4 +14,5 @@ int main(){
 	else{
 		printf("not same");
 	}
+print("ahmed");
 }
